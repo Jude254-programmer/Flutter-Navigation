@@ -1,2 +1,7 @@
 # Navigation in Flutter
-This a code to show how to navigate in flutter using a drawer and bottom navigationbar
+This a code to show how to navigate in flutter using a drawer and bottom navigationbar.
+
+## Subheader
+
+
+Specificaly for android app development.
